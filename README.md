@@ -50,11 +50,11 @@
 </a>
 <br><br>
 <a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
 </a>
 <br><br>
 <a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Bharat's GitHub Stats Graph"/>
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Bharat's GitHub Stats Graph"/>
 </a>
 </div>
 
