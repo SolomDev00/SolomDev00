@@ -11,8 +11,6 @@
 - Currently learning Web Development by Self
 - Personal website [SolomDev00](https://www.solomdev.com)
 
-<br><br>
-
 ###
 <br>
 
