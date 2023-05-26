@@ -41,6 +41,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="36" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="48" height="36" alt="codepen logo"  />
+</div>
+
 ###
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Stats</b>
 
@@ -50,11 +62,11 @@
 </a>
 <br><br>
 <a href="https://github.com/SolomDev00">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
 </a>
 <br><br>
 <a href="https://github.com/SolomDev00">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Bharat's GitHub Stats Graph"/>
 </a>
 </div>
 
