@@ -58,7 +58,7 @@
 
 <div align="center">
  <a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Solom's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Solom's GitHub Stats" />
 </a>
 <br><br>
 <a href="https://github.com/SolomDev00">
