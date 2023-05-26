@@ -48,8 +48,17 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SolomDev00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolomDev00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bindian0509&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Bharat's GitHub Contributions Graph"/>
+</a>
 </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
