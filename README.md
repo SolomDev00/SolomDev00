@@ -9,7 +9,7 @@
 
 - Study at Al-Azhar University
 - Currently learning Web Development by Self
-- Personal website [link](https://www.solomdev.com)
+- Personal website [SolomDev00](https://www.solomdev.com)
 
 <br><br>
 
