@@ -10,7 +10,7 @@
 
 - 🌱 Study at Horus University
 - 👨‍💻 Currently learning Nest.JS & PostgreSQL
-- ⚡ Personal website [SolomDev00](https://www.solomdev.com)
+- ⚡ Personal website [SolomDev00](https://solomdev-v2.vercel.app/)
 
 ###
 <br>
