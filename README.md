@@ -9,7 +9,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - 🌱 Study at Horus University
-- 👨‍💻 Currently learning Nest.JS & PostgreSQL.
+- 👨‍💻 Currently learning Nest.JS & PostgreSQL
 - ⚡ Personal website [SolomDev00](https://solomdev-v2.vercel.app/)
 
 ###
