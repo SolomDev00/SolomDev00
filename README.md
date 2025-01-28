@@ -8,7 +8,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 🌱 Study at Horus University ( HUE )
+- 🌱 Study at Horus University
 - 👨‍💻 Currently learning Nest.Js & PostgreSQL
 - ⚡ Personal website [SolomDev0](https://solomdev-v2.vercel.app/)
 
