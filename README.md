@@ -5,14 +5,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Eslam Wael</h1>
-<h3 align="center">Full-Stack JavaScript Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Full-Stack JavaScript Developer</h3>
 
 <p align="center">
-    [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>](https://solomdev-v2.vercel.app/)
-  <a href="https://linkedin.com/in/eslamwael" target="_blank">
+  <a href="https://solomdev-v2.vercel.app/" target="_blank" style="border-bottom: none !important; text-decoration: none !important;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/eslamwael" target="_blank" style="border-bottom: none !important; text-decoration: none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:solomdev0@gmail.com">
+  <a href="mailto:solomdev0@gmail.com" style="border-bottom: none !important; text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -76,7 +78,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-#### **Software & Tools**
+#### 🔨 **Software & Tools**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
@@ -86,7 +88,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=flat&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-#### **Currently Exploring**
+#### 🔮 **Currently Exploring**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF6D00?style=flat&logo=icloud&logoColor=white)
@@ -96,8 +98,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SolomDev00">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <a href="https://github.com/SolomDev00" style="border-bottom: none !important; text-decoration: none !important;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   </a>
 </p>
 
@@ -108,13 +110,13 @@
 Have an exciting project? Let's discuss how I can help bring it to life!
 
 <p align="center">
-  <a href="https://linkedin.com/in/eslamwael" target="_blank">
+  <a href="https://linkedin.com/in/eslamwael" target="_blank" style="border-bottom: none !important; text-decoration: none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:solomdev0@gmail.com">
+  <a href="mailto:solomdev0@gmail.com" style="border-bottom: none !important; text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://solomdev-v2.vercel.app/" target="_blank">
+  <a href="https://solomdev-v2.vercel.app/" target="_blank" style="border-bottom: none !important; text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
