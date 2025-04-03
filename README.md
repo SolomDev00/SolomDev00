@@ -51,6 +51,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![PrimeReact](https://img.shields.io/badge/PrimeReact-1A6DF0?style=flat&logo=primereact&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug.js-A86454?style=flat&logo=pug&logoColor=white)
 
 #### ⚙️ **Backend & ORM**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
