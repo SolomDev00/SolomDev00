@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ! My name is Eslam Wael ..</h1>
+<picture> <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGQAakFQ7XuCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701423500260?e=1749081600&v=beta&t=9SBCK4qKaKxJqCgmSIM-Na06Asp5AB45P11-ikxdiQU" width = 100%></picture>
 
 ###
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
