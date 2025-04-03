@@ -8,9 +8,7 @@
 <h3 align="center">Full-Stack JavaScript Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://solomdev-v2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
+    [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>](https://solomdev-v2.vercel.app/)
   <a href="https://linkedin.com/in/eslamwael" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
