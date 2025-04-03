@@ -1,68 +1,105 @@
-<picture> <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGQAakFQ7XuCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701423500260?e=1749081600&v=beta&t=9SBCK4qKaKxJqCgmSIM-Na06Asp5AB45P11-ikxdiQU"></picture>
+<p align="center">
+  <a href="https://solomdev-v2.vercel.app/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQAakFQ7XuCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701423500260?e=1749081600&v=beta&t=9SBCK4qKaKxJqCgmSIM-Na06Asp5AB45P11-ikxdiQU" width="100%" alt="SolomDev Banner"/>
+  </a>
+</p>
 
-###
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h1 align="center">Hi 👋, I'm Eslam Wael</h1>
+<h3 align="center">Full-Stack JavaScript Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-</div>
+  <a href="https://solomdev-v2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/eslamwael" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:solomdev0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-## <b> Let's Connect</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
-<br>
+---
 
-<div align="center">
-<a href="https://discord.gg/MpxB9bdv3n">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"  />
-</a>
-<a href="solomdev0@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
-</a>
-<a href="https://www.linkedin.com/in/eslamwael/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
-</a>
-</div>
+### 👨💻 About Me
 
-###
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Stats Github</b>
+🚀 Passionate Full-Stack Developer specializing in modern web technologies with 3+ years of experience. My core competencies include:
 
-<div align="center">
- <a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=SolomDev%27s%20Github%20Stats" alt="Solom's GitHub Stats" />
-</a>
-<br><br>
-<a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox" alt="Solom's GitHub Streak Stats"/>
-</a>
-<br><br>
-<a href="https://github.com/SolomDev00">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolomDev00&theme=gruvbox&hide_border=true)](https://github.com/SolomDev00" alt="Solom's GitHub Stats Graph"/>
-</a>
-</div>
+- **Frontend Mastery**: React, Next.js, TypeScript, Vue.js with expertise in state management (Redux, Context API)
+- **Backend Expertise**: Node.js, NestJS, and serverless architectures
+- **UI/UX Focus**: Crafting pixel-perfect interfaces using Tailwind CSS, ShadCN, and Chakra UI
+- **Database Solutions**: Both SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
+- **Architecture**: Strong understanding of OOP, Design Patterns, and System Design principles
 
-##
+🔭 Currently exploring: Advanced TypeScript patterns & Microservices architecture
 
+---
 
+### 🛠 Tech Stack
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### **Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/SolomDev00">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SolomDev00">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomDev00&layout=compact&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🎨 Design Philosophy
+
+"Simplicity is the ultimate sophistication."  
+I specialize in creating interfaces that are:
+- 🎯 Intuitive & user-centric
+- 📱 Fully responsive
+- 🚀 Performance-optimized
+- 🎨 Visually cohesive
+
+---
+
+### 📫 Let's Connect!
+
+Have an exciting project? Let's discuss how I can help bring it to life!
+
+<p align="center">
+  <a href="https://linkedin.com/in/eslamwael" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:solomdev0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://solomdev-v2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
