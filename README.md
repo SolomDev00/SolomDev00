@@ -25,20 +25,20 @@
 
 🚀 Passionate Full-Stack Developer specializing in modern web technologies with 3+ years of experience. My core competencies include:
 
-- **Frontend Mastery**: React, Next.js, TypeScript, Vue.js with expertise in state management (Redux, Context API)
-- **Backend Expertise**: Node.js, NestJS, and serverless architectures
-- **UI/UX Focus**: Crafting pixel-perfect interfaces using Tailwind CSS, ShadCN, and Chakra UI
-- **Database Solutions**: Both SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
-- **Architecture**: Strong understanding of OOP, MVC, Design Patterns, and System Design principles
+- **Frontend Mastery**: React, Next.js, TypeScript, Vue.js with expertise in state management (Redux, Context API).
+- **Backend Expertise**: Node.js, NestJS, and serverless architectures.
+- **UI/UX Focus**: Crafting pixel-perfect interfaces using Tailwind CSS, ShadCN, and Chakra UI.
+- **Database Solutions**: Both SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase).
+- **Architecture**: Strong understanding of OOP, MVC, Design Patterns, and System Design principles.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### **Frontend**
+#### 🥷 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -65,7 +65,7 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![PrimeReact](https://img.shields.io/badge/PrimeReact-1A6DF0?style=flat&logo=primereact&logoColor=white)
 
-#### **Backend & ORM**
+#### ⚙️ **Backend & ORM**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -73,12 +73,10 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typeorm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-
-#### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 #### **Software & Tools**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -101,8 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/SolomDev00">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=gruvbox&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   </a>
 </p>
 
