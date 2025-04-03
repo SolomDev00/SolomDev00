@@ -29,7 +29,7 @@
 - **Backend Expertise**: Node.js, NestJS, and serverless architectures
 - **UI/UX Focus**: Crafting pixel-perfect interfaces using Tailwind CSS, ShadCN, and Chakra UI
 - **Database Solutions**: Both SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
-- **Architecture**: Strong understanding of OOP, Design Patterns, and System Design principles
+- **Architecture**: Strong understanding of OOP, MVC, Design Patterns, and System Design principles
 
 ---
 
@@ -41,6 +41,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![React Query](https://simpleicons.org/icons/reactquery.svg)
 
 #### **Backend & ORM**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
