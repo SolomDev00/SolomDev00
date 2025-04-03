@@ -4,13 +4,11 @@
   </a>
 </p>
 
-<h4 align="center">Full-Stack JavaScript Developer</h4>
+<h3 align="center">Full-Stack JavaScript Developer</h3>
 
 ---
 
-### 🐯 About Me
-
-🚀 Passionate Full-Stack Developer specializing in modern web technologies with 3+ years of experience. My core competencies include:
+## 🐯 Passionate Full-Stack Developer specializing in modern web technologies with 3+ years of experience. My core competencies include:
 
 - **Frontend Mastery**: React, Next.js, TypeScript, Vue.js with expertise in state management (Redux, Context API).
 - **Backend Expertise**: Node.js, NestJS, and serverless architectures.
