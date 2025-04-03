@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Full-Stack JavaScript Developer</h3>
+<h5 align="center">Full-Stack JavaScript Developer</h5>
 
 ---
 
