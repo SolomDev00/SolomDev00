@@ -31,11 +31,6 @@
 - **Database Solutions**: Both SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
 - **Architecture**: Strong understanding of OOP, Design Patterns, and System Design principles
 
-🔭 **Currently Exploring**: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF6D00?style=flat&logo=icloud&logoColor=white)
-
 ---
 
 ### 🛠 Tech Stack
@@ -86,6 +81,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+#### **Currently Exploring**:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF6D00?style=flat&logo=icloud&logoColor=white)
+
 ---
 ### 📈 GitHub Stats
 
@@ -101,17 +101,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomDev00&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-
----
-
-### 🎨 Design Philosophy
-
-"Simplicity is the ultimate sophistication."  
-I specialize in creating interfaces that are:
-- 🎯 Intuitive & user-centric
-- 📱 Fully responsive
-- 🚀 Performance-optimized
-- 🎨 Visually cohesive
 
 ---
 
