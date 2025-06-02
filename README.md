@@ -85,10 +85,10 @@
 
 <p align="center">
  <a href="https://github.com/SolomDev00" style="border-bottom: none !important; text-decoration: none !important;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomDev00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=dark&hide_border=true" />
   </a>
  <a href="https://github.com/SolomDev00" style="border-bottom: none !important; text-decoration: none !important;">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolomDev00&theme=dark&hide_border=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomDev00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 </p>
 
