@@ -88,7 +88,7 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   </a>
  <a href="https://github.com/SolomDev00" style="border-bottom: none !important; text-decoration: none !important;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SolomDev00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadwanHegazy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 </p>
 
