@@ -106,3 +106,10 @@ Have an exciting project? Let's discuss how I can help bring it to life!
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RadwanHegazy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RadwanHegazy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadwanHegazy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
