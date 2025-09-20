@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://solomdev-v2.vercel.app/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQAakFQ7XuCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701423500260?e=1755129600&v=beta&t=cvzBvcAeb1M8FJvfCr4bwcFKT-k9nSbJiLh4GGiUAu8" width="100%" alt="SolomDev Banner"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQAakFQ7XuCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701423500260?e=1761177600&v=beta&t=zcEmmOK4wOqX0NoBRIRxFz7Eh2pUxQMqvS4v7EL3lss" width="100%" alt="SolomDev Banner"/>
   </a>
 </p>
 
