@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://solomdev.vercel.app/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEmecCzJYQAvw/profile-displaybackgroundimage-shrink_350_1400/B4DZr_YnYzIEAY-/0/1765221299529?e=1768435200&v=beta&t=RZmnXt1kEnb3cW8LRu3NJzOZa2DcwhPejiFSyeuQ0DA" width="100%" alt="SolomDev Banner"/>
+    <img src="solom.gif" width="100%" alt="SolomBanner">
   </a>
 </p>
 
